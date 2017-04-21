@@ -1,0 +1,27 @@
+#Ignore gradle files
+.gradle/
+
+#Local configuration file(sdkpath,etc)
+local.properties
+
+#IntellijIDEA
+.idea/dictionaries
+.idea/gradle.xml
+.idea/libraries
+.idea/misc.xml
+.idea/tasks.xml
+.idea/workspace.xml
+captures/
+
+# generated files and Built application files
+bin/
+gen/
+build/
+app/app-release.apk
+
+#Other
+.DS_Store
+Thumbs.db
+
+#Android Studio
+*.iml
